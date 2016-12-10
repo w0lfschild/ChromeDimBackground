@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "5DB1F5BBF58DF3619EF649BB81FDAA6F46D07F8A",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "5DB1F5BBF58DF3619EF649BB81FDAA6F46D07F8A" : 9223372036854775807,
+    "581AE05C3433DF10913ED886FFAF80CE63D11921" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "932774CC-27A6-444D-A6B7-99CDC0C7BE88",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "5DB1F5BBF58DF3619EF649BB81FDAA6F46D07F8A" : "wb_ChromeDimBackground\/",
+    "581AE05C3433DF10913ED886FFAF80CE63D11921" : "NoFavicons"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "NoFavicons",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "NoFavicons.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/michaelphines\/NoFavicons",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "581AE05C3433DF10913ED886FFAF80CE63D11921"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/w0lfschild\/ChromeDimBackground.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5DB1F5BBF58DF3619EF649BB81FDAA6F46D07F8A"
+    }
+  ]
+}
