@@ -17,6 +17,7 @@
 		FB20C4521DFBDB1F00D33CD9 /* ZKSwizzle.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ZKSwizzle.h; path = ChromeDimBackground/ZKSwizzle.h; sourceTree = "<group>"; };
 		FB20C4531DFBDB1F00D33CD9 /* ZKSwizzle.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ZKSwizzle.m; path = ChromeDimBackground/ZKSwizzle.m; sourceTree = "<group>"; };
 		FB20C4561DFBDC9B00D33CD9 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = ChromeDimBackground/Info.plist; sourceTree = "<group>"; };
+		FBFE43D21DFBDE9A00861CAF /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -34,6 +35,7 @@
 			isa = PBXGroup;
 			children = (
 				FB20C4551DFBDB3C00D33CD9 /* ChromeDimBackground */,
+				FBFE43D31DFBDE9F00861CAF /* README */,
 				2E26239314F590D000EF319B /* Products */,
 			);
 			sourceTree = "<group>";
@@ -55,6 +57,14 @@
 				FB20C4501DFBDB0E00D33CD9 /* ChromeDimBackground.m */,
 			);
 			name = ChromeDimBackground;
+			sourceTree = "<group>";
+		};
+		FBFE43D31DFBDE9F00861CAF /* README */ = {
+			isa = PBXGroup;
+			children = (
+				FBFE43D21DFBDE9A00861CAF /* README.md */,
+			);
+			name = README;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
