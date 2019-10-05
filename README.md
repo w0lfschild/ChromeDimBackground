@@ -2,8 +2,6 @@
 
 Makes themed windows in chrome behave the same way as unthemed windows when in the background.
 
-![preview](preview.png) 
-
 # Information:
 
 - Designed for 10.10+   
