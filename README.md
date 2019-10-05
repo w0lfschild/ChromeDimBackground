@@ -1,5 +1,21 @@
+# ChromeDimBackground
+
 Makes themed windows in chrome behave the same way as unthemed windows when in the background.
 
+![preview](preview.png) 
+
+# Information:
+
+- Designed for 10.10+   
+- zestyWin is a MacForge plugin that tries to add Vibrancy to every application window on MacOS 
+- Author: [w0lfschild](https://github.com/w0lfschild)
+
+# Installation:
+
+1. Download and open [MacForge](https://github.com/w0lfschild/app_updates/raw/master/MacForge/MacForge.zip)
+2. Install [ChromeDimBackground](https://www.macenhance.com/mflink?macforge://github.com/w0lfschild/macplugins/raw/master/org.michaelphines.ChromeDimBackground)
+	
+### License:
 Copyright (C) 2016, Wolfgang Baird    
 Copyright (C) 2016, Michael Hines     
 
